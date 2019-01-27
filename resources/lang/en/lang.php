@@ -1,0 +1,42 @@
+<?php
+return [
+    'name'=>'Name',
+    'email'=>'Email',
+    'password'=>'Password',
+    'confirm_password'=>'Confirm Password',
+    'logo'=>'Logo',
+    'website'=>'Website',
+    'first_name'=>'First Name',
+    'last_name'=>'Last Name',
+    'company'=>'Company',
+    'phone'=>'Phone',
+    'companies'=>'Companies',
+    'employees'=>'Employees',
+
+    #
+    'company_delete'=>'Company successfully deleted!',
+    'company_added'=>'Company successfully added!',
+    'company_update'=>'Company successfully updated!',
+    'no_companies'=>'No companies added',
+    'no_employees'=>'No employees added',
+    'employee_added'=>'employees added',
+    'edit_employees'=>'Employees Edit',
+
+    'employee_update'=>'Employee successfully updated!',
+    'send'=>'Send',
+    'logo'=>'Logo',
+    'website'=>'Website',
+    'add_companies'=>'Add Companies',
+    'edit_companies'=>'Edit Companies',
+    'add_new'=>'Add New',
+    'edit'=>'Edit',
+    'delete'=>'Delete',
+    'show'=>'Show',
+    'no_added_yet'=>'Not Added Yet',
+    #
+    'add_employee'=> ' Add Employee',
+    'logout'=>'Logout' ,
+    'thank_you'=>'Thank you' ,
+    'you_registered_with_us'=>'You have been registered with us',
+    'old_logo'=>'Old Logo',
+];
